@@ -16,18 +16,17 @@ body {
 
 }
 
+.d-flex {
+  height: 80vh;
+}
+
 img {
     width: 25%;
     height: auto;
 }
 
 .jumbotron {
-  margin: auto;
   width: 70%;
+  height: 50vh;
   background-color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-
 }
