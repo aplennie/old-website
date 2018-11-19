@@ -1,0 +1,52 @@
+html {
+  background-color: black;
+}
+
+h2 {
+  font-family: monospace;
+}
+
+.container {
+text-align: center;
+margin-top: 40px;
+background-color: black;
+}
+
+.btn {
+  font-family: "VT323", monospace;
+}
+
+#content {
+  background-color: black;
+}
+
+#start-button {
+  margin-top: 20px;
+}
+
+#HUD {
+  margin: 10px 10px 10px 10px;
+  font-family: "VT323", monospace;
+  color: gray;
+}
+
+#game-text {
+  bottom: 60px;
+}
+
+#image {
+  margin-bottom: 10px;
+}
+
+#text-box {
+  color: white;
+  font-family: "VT323", monospace;
+  font-size: 20px;
+}
+
+
+#game-title {
+  color: white;
+  font-family: "Contrail One", cursive;
+  font-size: 50px;
+}
