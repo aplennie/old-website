@@ -5,16 +5,15 @@
   font-size: 10px;
 }
 
-p {
+body {
   font-family: 'Montserrat', sans-serif;
 }
 
-#blurb {
-  margin-top: 100px;
-}
 
-nav {
-  font-family: 'Montserrat', sans-serif;
+#quote {
+  text-align: center;
+  font-style: italic;
+
 }
 
 img {
@@ -24,6 +23,11 @@ img {
 
 .jumbotron {
   margin: auto;
-  width: 50%;
+  width: 70%;
   background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
 }
