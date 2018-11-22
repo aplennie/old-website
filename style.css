@@ -21,10 +21,12 @@ body {
   height: 90vh;
 }
 
+
+
 h3 {
   font-size: 110px;
   margin: 30px;
-}
+  }
 
 img {
     width: 25%;
@@ -40,6 +42,8 @@ img {
 a.card {
   width: 200px;
   height: auto;
+  position: relative;
+  align-items: center;
 }
 
 a {
