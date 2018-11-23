@@ -8,12 +8,11 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: white;
+
 }
 
-
-#quote {
-  text-align: center;
-  font-style: italic;
+#about-text {
+  margin-top: 100px;
 }
 
 .d-flex {
@@ -70,4 +69,19 @@ a.card:hover {
 
 #card-other:hover {
   background-image: linear-gradient(#60ffd7, #ff84ee);
+}
+
+/* Designs */
+.carousel-inner {
+  position: relative;
+  height: 50vh;
+  width: auto;
+}
+
+/* Projects */
+#cards-projects {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  margin-top: 80px;
 }
