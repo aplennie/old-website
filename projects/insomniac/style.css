@@ -2,8 +2,22 @@ html {
   background-color: black;
 }
 
+body {
+  background-color: black !important;
+
+}
+
 h2 {
   font-family: monospace;
+}
+
+a {
+  margin: 10px 10px 10px 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
 }
 
 .container {
@@ -16,26 +30,32 @@ background-color: black;
   font-family: "VT323", monospace;
 }
 
-#content {
-  background-color: black;
+#parent {
+  width: 100vw;
+  height: 90vh;
 }
 
-#start-button {
-  margin-top: 20px;
+#content {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
+
 
 #HUD {
-  margin: 10px 10px 10px 10px;
+  display: flex;
+  margin-right: 10px;
+  margin-top: 10px;
   font-family: "VT323", monospace;
   color: gray;
+  flex-direction: column;
+  text-align: right;
 }
 
-#game-text {
-  bottom: 60px;
-}
-
-#image {
-  margin-bottom: 10px;
+#clock {
+  right: 0;
 }
 
 #text-box {
@@ -46,6 +66,7 @@ background-color: black;
 
 
 #game-title {
+  margin-top: 30px;
   color: white;
   font-family: "Contrail One", cursive;
   font-size: 50px;

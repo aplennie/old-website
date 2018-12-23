@@ -1,41 +1,48 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=VT323|Contrail+One" rel="stylesheet">
   </head>
-  <body id="content">
-    <div class="d-flex justify-content-end" id="HUD">
-            <h3 id="clock" style="opacity:0;"></h3>
-            <ul id=backpack>
-            </ul>
-    </div>
-
-    <div class="container" id="main-screen">
-      <h2 id="game-title">I n s o m n i a c</h2>
-    </div>
-
-    <div class="container align-items-center" id="game-art">
-      <img src="insomniac-title.png" class="img-fluid" id="image">
-    </div>
-
-    <div class="container fixed-bottom" id="game-text">
-      <p id="text-box">Press button to start...</p>
-      <div class="container" id="buttons">
-        <button type="button" class="btn btn-outline-light btn-lg" id="start-button">
-          <span>Start Game</span>
-        </button>
+  <body>
+    <div class="container" id="parent">
+      <div class="container fixed-top" id="HUD">
+        <h3 id="clock" style="opacity:0;"></h3>
+          <ul id=backpack>
+            <li id="cash"></li>
+          </ul>
       </div>
+      <div class="container" id="content">
+        <div class="container fixed-top" id="main-screen">
+          <h2 id="game-title">I n s o m n i a c</h2>
+        </div>
+
+        <div class="container align-items-center" id="game-art">
+          <img src="images/insomniac-title.png" class="img-fluid" id="image">
+        </div>
+
+        <div class="container align-items-center" id="game-text">
+          <p id="text-box">Press button to start...</p>
+          <div class="container" id="buttons">
+            <button type="button" class="btn btn-outline-light btn-lg" id="start-button">
+              <span>Start Game</span>
+            </button>
+          </div>
+        </div>
+    <!-- <div id="debug">
+     <button type="button" name="button" onclick="nextScen(scen.s92)">debug</button>
+    </div> -->
     </div>
-
-
+  </div>
+<!--  <div id="plylst" style="opacity:0;">
+    <a class="pull-left" href="#" target="_blank"><img src="images/spotify8bit.png"></a>
+  </div> -->
 </body>
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
 <script
 src="https://code.jquery.com/jquery-3.3.1.js"
 integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
