@@ -11,19 +11,25 @@ body {
 
 }
 
-#about-text {
-  margin-top: 100px;
+.logo {
+  width: 40px;
+  margin: 10px;
 }
 
 .d-flex {
   width: 100vw;
   height: 90vh;
+  padding-bottom: 40px;
+
 }
 
-
+.text-about {
+  max-width: 50%;
+  text-align: justify;
+}
 
 h3 {
-  font-size: 110px;
+  font-size: 50px;
   margin: 30px;
   }
 
@@ -33,16 +39,34 @@ img {
 }
 
 .jumbotron {
-  width: auto;
   background-color: inherit;
   overflow: hidden;
+
+}
+
+.sexy_line{
+    display: flex;
+    border-style: solid;
+    border-width: thin;
+    color: lightgray;
+    height: 300px;
+    width: 1px;
+    margin-left: 20px;
+}
+
+.card-deck {
+  display: flex;
+  flex-direction: column;
 }
 
 a.card {
-  width: 200px;
-  height: auto;
+  width: 100px;
+  height: 100px;
   position: relative;
   align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin: 10px;
 }
 
 a {
@@ -56,19 +80,19 @@ a.card:hover {
 }
 
 #card-about:hover {
-  background-image: linear-gradient(#eaffba, #ceffe2);
+  background-image: linear-gradient(#8dbc5a, #ceffe2);
 }
 
 #card-designs:hover {
-  background-image: linear-gradient(#81caf4, #bc7fdb);
+  background-image: linear-gradient(#8dbc5a, #ceffe2);
 }
 
 #card-projects:hover {
-  background-image: linear-gradient(#fc7753, #ffe77f);
+  background-image: linear-gradient(#8dbc5a, #ceffe2);
 }
 
 #card-other:hover {
-  background-image: linear-gradient(#60ffd7, #ff84ee);
+  background-image: linear-gradient(#8dbc5a, #ceffe2);
 }
 
 /* Designs */
