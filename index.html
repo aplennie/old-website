@@ -20,14 +20,15 @@
         <!--Logo area-->
         <div class="navbar-header">
           <img class="logo" src="bitmap.png">
+          <a class="mr-auto" href="https://github.com/aplennie"><img style="height: 40px; width:auto;" src="github.png"/></a>
         </div>
       </div>
     </nav>
     <div class="d-flex justify-content-center align-items-center">
       <div class="text-about">
-        <h2>Welcome!</h2>
+        <h2 id="welcome">W</h2>
         <p>Hello there, my name is Alina. I'm currently studying engineering. I like to write in my free time, in several languages such as HTML/CSS, JavaScript, Python, and Plain Ol' English. I also like to draw on occasion, mostly with a mouse (but sometimes with a pencil and paper!). Some other facts about me? I currently have 26 different Spotify playlists. I drive a Volkswagen Golf. If I could travel anywhere right now, it would probably be Big Sur. </p>
-        <p>You can check out some stuff I've made by clicking the bubbles to the right.</p>
+        <p>You can check out some stuff I've made by clicking the bubbles to the right, or click on the GitHub logo at the top!</p>
       </div>
       <div>
         <span class="sexy_line"></span>
@@ -56,10 +57,24 @@
     <footer class="footer text-center fixed-bottom">
       <p>♡ 2019</p>
     </footer>
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
+  <script type="text/javascript">
+    let i = 0;
+    let txt = 'elcome!';
+
+    function typeWriter() {
+      if (i < txt.length) {
+        document.getElementById("welcome").innerHTML += txt.charAt(i);
+        i++;
+        setTimeout(typeWriter, 100);
+      }
+    }
+
+   window.addEventListener('load', typeWriter);
+  </script>
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </html>

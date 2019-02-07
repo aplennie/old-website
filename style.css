@@ -41,17 +41,17 @@ img {
 .jumbotron {
   background-color: inherit;
   overflow: hidden;
+  padding: 0;
+  margin: 0;
 
 }
 
 .sexy_line{
     display: flex;
-    border-style: solid;
-    border-width: thin;
-    color: lightgray;
-    height: 300px;
+    background-image: radial-gradient(lightgray, #ffffff);
+    height: 350px;
     width: 1px;
-    margin-left: 20px;
+    margin: 30px;
 }
 
 .card-deck {
@@ -79,20 +79,17 @@ a.card:hover {
     box-shadow: inset 0 0 10px 2px gray;
 }
 
-#card-about:hover {
-  background-image: linear-gradient(#8dbc5a, #ceffe2);
-}
 
 #card-designs:hover {
-  background-image: linear-gradient(#8dbc5a, #ceffe2);
+  background-image: radial-gradient(#ceffe2, #8dbc5a);
 }
 
 #card-projects:hover {
-  background-image: linear-gradient(#8dbc5a, #ceffe2);
+  background-image: radial-gradient(#ceffe2, #8dbc5a);
 }
 
 #card-other:hover {
-  background-image: linear-gradient(#8dbc5a, #ceffe2);
+  background-image: radial-gradient(#ceffe2, #8dbc5a);
 }
 
 /* Designs */
