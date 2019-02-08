@@ -14,6 +14,7 @@ To-do:
 - Add other projects??? (but what tho??)
 - FInish Insomniac FFS >:(
 - Add designs (maybe logo designs?)
+- RENAME TO index.html
 
 If i have time:
 - do something cool with paper.js :D
