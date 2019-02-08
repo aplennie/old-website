@@ -9,8 +9,8 @@ To-do:
 
 - Mobile formatting (make the bubbles move to the top when the window is narrow)
 - Make a sicc new logo
-- Create extras page
-- Add articles to extras page
+- ~~Create extras page~~
+- ~~Add articles to extras page~~
 - Add other projects??? (but what tho??)
 - FInish Insomniac FFS >:(
 - Add designs (maybe logo designs?)
