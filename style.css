@@ -16,7 +16,7 @@ body {
   margin: 10px;
 }
 
-.d-flex {
+.d-flex{
   width: 100vw;
   height: 90vh;
   padding-bottom: 40px;
@@ -52,6 +52,14 @@ img {
     height: 350px;
     width: 1px;
     margin: 30px;
+}
+
+.sexy_line2{
+    display: flex;
+    background-image: radial-gradient(lightgray, #ffffff);
+    height: 80vh;
+    width: 1px;
+    margin: 20px;
 }
 
 .card-deck {
@@ -105,4 +113,30 @@ a.card:hover {
   position: relative;
   justify-content: center;
   margin-top: 80px;
+}
+
+/*Articles*/
+
+#side-nav {
+  margin: 15px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+}
+
+.list-group-item {
+  font-size: 10px;
+}
+
+#article-container {
+  display: flex;
+}
+
+.iframe-text {
+   width: 70vw;
+   height: 75vh;
+   margin: 30px;
+   border: 1px lightgray solid;
+   border-radius: 5px;
 }
