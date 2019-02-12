@@ -1,0 +1,103 @@
+html {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Muli', sans-serif;
+
+}
+
+body {
+  background: lightyellow;
+  background-image:
+  radial-gradient(white 20%, transparent 0),
+  radial-gradient(white 20%, transparent 0);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
+
+#page-title {
+  text-align: center;
+  font-size: 40px;
+  color: #0f0f0f;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+  margin: 20px;
+  text-shadow: 5px 5px 0px tomato;
+}
+
+h5 {
+  margin: 20px;
+}
+
+#floating-box {
+  width: 80vw;
+  height: 60vh;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #90bdbf;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 8px 10px 0px 0 cadetblue;
+}
+
+#word-disp {
+  display: flex;
+  height: 40%;
+  color: white;
+  text-shadow: 1px 1px 20px black;
+}
+
+#orig {
+  position: absolute;
+  left: 300px;
+  padding: 0px;
+  font-size: 50px;
+}
+
+#trans {
+  position: absolute;
+  right: 300px;
+  padding: 0px;
+  font-size: 50px;
+}
+
+#lang-select {
+  margin: 20px;
+}
+
+select {
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: white;
+  font-size: 20px;
+  font-family: 'Muli', sans-serif;
+
+}
+
+#randomizer {
+  padding: 50px;
+}
+
+button {
+  border: 1px solid tomato;
+  background-color: white;
+  border-radius: 60px;
+  padding: 15px 90px;
+  font-size: 30px;
+  font-family: 'Muli', sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  color: tomato;
+}
+
+button:hover {
+  background-color: tomato;
+  color: white;
+}
+
+button:active {
+  transform: translateY(4px);
+}
