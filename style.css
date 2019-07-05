@@ -104,26 +104,19 @@ a.card:hover {
 /* Designs */
 #designs-cards {
   display: flex;
-  width: 90vw;
-  height: 70vh;
+  width: auto;
   align-items: center;
   justify-content: center;
-  overflow-x: scroll;
-  overflow-y: hidden;
 }
 
 
 #cont-cards {
   padding: 0;
   margin: 0;
-  height: 230px;
+  height: auto;
 }
 
-#inner-card {
-  height: 200px;
-  width: 200px;
-  margin: 5px;
-}
+
 
 /* Projects */
 #cards-projects {
