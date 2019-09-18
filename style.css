@@ -33,10 +33,10 @@
 
 
 .footer {
-  height: 60px;
-  line-height: 60px;
+  height: 40px;
+  line-height: 40px;
   background-color: #f8f9fa;
-  font-size: 10px;
+  font-size: 8px;
   width: 100vw;
 }
 
@@ -155,6 +155,10 @@ a.card:hover {
   padding: 0;
   margin: 0;
   height: auto;
+}
+
+#carousel-designs {
+  width: 50vw;
 }
 
 /* Projects */
