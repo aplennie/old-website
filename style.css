@@ -25,6 +25,11 @@
  }
 
 
+#ap-logo {
+  width: 50px;
+  height: auto;
+}
+
 .container-fluid {
   width: 100vw;
   margin: 0;
