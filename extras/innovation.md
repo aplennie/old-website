@@ -16,7 +16,7 @@ Let’s say they start using this HoloLens system for real-time training or trou
 This is a relatively small example though, in the context of multi-million dollar corporations. Larger changes, such as converting a factory into a smart factory needs to account for other things; the roles of existing workers, data security, continuity and reliability, revenue stream, etc. There are many pieces to the puzzle, which all need to be planned out carefully in order to ensure smooth sailing into the ‘future.’ Either way, such a large-scale change is a big risk to take, which means an ‘all hands on deck’ approach is probably the best way to move forward – which means getting everybody involved.
 
 
-### Making Innovation Work
+# Making Innovation Work
 
 Startups seem to have the ‘innovation’ thing down, because they are idea-oriented. Startups must push forward with this idea despite the high-risk environment, because if they can’t, they’ll crash and burn. This means they need to constantly seek solutions for the problems they encounter on the way, all while lacking capital.
 
