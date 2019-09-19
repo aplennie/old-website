@@ -1,5 +1,5 @@
-Innovation: More Than a Buzzword
-Feb 01, 2019
+## Innovation: More Than a Buzzword <br>
+*Feb 01, 2019*
 
 It’s happening. You’ve definitely already heard about it. IoT, Cloud computing, Quantum computing, Big Data, Blockchain, AI, VR, Machine Learning, etc.  Now more than ever before, you’ll see [insert buzzword here] in various company press releases and in the headlines of almost every tech article, promising ‘disruption’ and ‘innovation’ (and sometimes even ‘disruptive innovation’!), but are these just empty promises, being called out to gain the attention of stakeholders and potential investors?
 
@@ -16,7 +16,7 @@ Let’s say they start using this HoloLens system for real-time training or trou
 This is a relatively small example though, in the context of multi-million dollar corporations. Larger changes, such as converting a factory into a smart factory needs to account for other things; the roles of existing workers, data security, continuity and reliability, revenue stream, etc. There are many pieces to the puzzle, which all need to be planned out carefully in order to ensure smooth sailing into the ‘future.’ Either way, such a large-scale change is a big risk to take, which means an ‘all hands on deck’ approach is probably the best way to move forward – which means getting everybody involved.
 
 
-Making Innovation Work
+### Making Innovation Work
 
 Startups seem to have the ‘innovation’ thing down, because they are idea-oriented. Startups must push forward with this idea despite the high-risk environment, because if they can’t, they’ll crash and burn. This means they need to constantly seek solutions for the problems they encounter on the way, all while lacking capital.
 

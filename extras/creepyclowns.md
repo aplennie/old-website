@@ -1,5 +1,5 @@
-The #clownpocalypse has begun
-Oct 07, 2016
+## The #clownpocalypse has begun <br>
+*Oct 07, 2016*
 
 Imagine this: you’re walking home alone after a long day. It’s dark. You approach a seemingly inconspicuous corner. As you turn this corner, you see something that shakes you to your core. A strange figure with big, frizzy hair and wide, toothy grin. After you regain your composure and a stable heart rate, you realize what is standing in front of you: a teenager wearing a clown mask.
 

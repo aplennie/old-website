@@ -1,5 +1,5 @@
-Learning from Animals
-Oct 21, 2016
+## Learning from Animals <br>
+*Oct 21, 2016*
 
 It seems like the key to curing diseases such as cancer may be closer than we think – maybe even in our own backyard.
 

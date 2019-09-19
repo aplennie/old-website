@@ -1,5 +1,5 @@
-Canadian youths turn their back on Justin Trudeau
-Nov 04, 2016
+## Canadian youths turn their back on Justin Trudeau <br>
+*Nov 04, 2016*
 
 October was a trying time for Prime Minister Justin Trudeau. Only one year into his term, he has encountered much criticism from politicians and citizens alike, as people are evaluating how much he has accomplished – and how many promises he has broken. This past month was perhaps the most eventful, with Trudeau being heckled and harassed by protesters in multiple instances.
 

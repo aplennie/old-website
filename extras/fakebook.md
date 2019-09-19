@@ -1,5 +1,5 @@
-FakeBook
-Nov 18, 2016
+## FakeBook <br> 
+*Nov 18, 2016*
 
 Google and Facebook have recently been facing criticism from the public due to the abundance of misleading, inaccurate, or even entirely fake news posts. Many sources are even saying that these fake posts and articles may have even swayed the opinions of voters during the presidential election – meaning election results could have possibly been different.
 

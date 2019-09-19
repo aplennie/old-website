@@ -1,5 +1,5 @@
-UWaterloo-designed self-driving car makes appearance at CES 2017
-Jan 13, 2017
+## UWaterloo-designed self-driving car makes appearance at CES 2017 <br>
+*Jan 13, 2017*
 
 Renesas Electronics America, in collaboration with BlackBerry QNX and a team from WatCAR launched their autonomous car at the Consumer Electronics Show in Las Vegas this past month. The vehicle, dubbed “Skyline,” maneuvered itself around a test track set up for the show, and also claims to be ‘hackproof.’
 

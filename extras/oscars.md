@@ -1,5 +1,5 @@
-2017 Oscar Nominees Announced
-Jan 28, 2017
+## 2017 Oscar Nominees Announced <br>
+*Jan 28, 2017*
 
 It’s that time of year again (no, not Superbowl season), the 2017 Oscar nominations are here! This year is the 89th year the awards will be held, featuring 24 categories of awards. They will take place on Sunday, February 26th at the Dolby Theatre in Hollywood and will be hosted by Jimmy Kimmel, comedian and host of his self-titled talk show.
 

@@ -1,5 +1,5 @@
-Waterloo Housing Woes – A Guide to Off-Campus Housing
-March 15, 2019
+## Waterloo Housing Woes – A Guide to Off-Campus Housing <br>
+*March 15, 2019*
 
 Put plainly, searching for off-campus student housing sucks. Finding a place that suits all your needs, is clean, and within your budget is possible, but often times you have to lower your expectations or increase your budget to find good accommodation. Personally, student housing has caused me much frustration over the three years I’ve been in Waterloo, so I’ve decided to put together a list of stuff I wish I knew earlier.
 

@@ -175,6 +175,12 @@ a.card:hover {
 }
 
 /*Articles*/
+#textbox {
+  width: 70vw;
+  height: 80vh;
+  margin: 20px 20px 60px 20px;
+  overflow-y: scroll;
+}
 
 #side-nav {
   margin: 15px;

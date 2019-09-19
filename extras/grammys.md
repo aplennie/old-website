@@ -1,5 +1,5 @@
-The Grammys 2019 – RECAP
-February 13, 2019
+## The Grammys 2019 – RECAP <br>
+*February 13, 2019*
 
 The 61st annual Grammy awards took place on Sunday, Feb 10th and were hosted by singer and songwriter Alicia Keys. Overall, there were many talented nominees across 84 categories in various genres. While the number of awards hasn’t changed since last year, there were a few important changes made for this year’s awards. The biggest change in the structure of the award show was that the number of nominees for the ‘Big 4’ categories was upped from five nominees to eight nominees. This was done in an effort to introduce more diversity into the event following criticism over last year’s show.
 
