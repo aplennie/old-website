@@ -202,11 +202,14 @@ a.btn:hover {
   width: 80vw;
 }
 
+<<<<<<< HEAD
 img.card-img {
   width: 20vw;
   max-width: 250px;
 }
 
+=======
+>>>>>>> bc18a060c80383977ec93fed0bf56c969419ab83
 img.card-img-top {
   filter: grayscale(70%);
 }
